@@ -9,8 +9,8 @@ I've been code since I was 7th Grades start by LUAU Language, but now I'm using 
 I served as a Programmer and Code Analyst for the MeArms Robotics (Servo-Arduino Nano) project during an extracurricular activity at my Junior High School.
 
 * 🌍  I'm based in Indonesia
-* 🧠  I'm currently learning C++ and JavaScript
-* 💬  Ask me about I Love C++
+* 🧠  I'm currently learning C++ and JavaScript (Nextime LUAU?)
+* 💬  I Love C++
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /></a>
