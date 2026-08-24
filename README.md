@@ -6,8 +6,8 @@
 
 ### 🎨 About Me
 * 🎓 Education: Computer Science Student
-* 🔭 Currently Working/Doing: *?*
-* 📚 Learning: Road to **ADVANCE C++** & Learn Web Development to **Laravel**
+* 🔭 Currently Working/Doing: Making Simple Website **ABOUT ME** (Like Portfolio)
+* 📚 Learning: Road to **ADVANCE C++** *{Smart Pointer, Next-Level Pointer & Refrence, Beginner-Advance Memory Management}* AND Learn Web Development to **Laravel**
 * 🎮 Hobbies: Coding, Play Games (Online/Boardgame)
 * ⚡ Fun fact: I hate to learn Python, so much.
 
@@ -32,5 +32,5 @@
 ---
 
 ### 📫 Connect With Me
-* ✉️ Email: <mark>*invisble*</mark>
+* ✉️ Email: <mark>*invisble*</mark>~Coming Soon!
 * 🕶️ Discord: infernus_echo
