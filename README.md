@@ -10,7 +10,7 @@
 * 📚 Learning: Road to **ADVANCE C++** *{Smart Pointer, Next-Level Pointer & Refrence, Beginner-Advance Memory Management}* AND Learn Web Development to **Laravel**
 * 🎮 Hobbies: Coding, Play Games (Online/Boardgame)
 * ⚡ Fun fact: I hate to learn Python, so much.
-* 🧩 More Info: *?*
+* 🧩 More Info: I like to learn about IoT and Embedded System. (Arduino-Servo KIT MeArms) Still in progress and learning deeply.
 
 ### 🛠️ My Tech Stack
 
@@ -29,6 +29,7 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 ---
 
