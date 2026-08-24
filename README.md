@@ -6,10 +6,11 @@
 
 ### 🎨 About Me
 * 🎓 Education: Computer Science Student
-* 🔭 Currently Working/Doing: Making Simple Website **ABOUT ME** (Like Portfolio)
+* 🔭 Currently Working/Doing: Making a Simple Website **ABOUT ME** (Like Portfolio)
 * 📚 Learning: Road to **ADVANCE C++** *{Smart Pointer, Next-Level Pointer & Refrence, Beginner-Advance Memory Management}* AND Learn Web Development to **Laravel**
 * 🎮 Hobbies: Coding, Play Games (Online/Boardgame)
 * ⚡ Fun fact: I hate to learn Python, so much.
+* 🧩 More Info: *?*
 
 ### 🛠️ My Tech Stack
 
