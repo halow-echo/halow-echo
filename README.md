@@ -8,7 +8,7 @@ Hello there! I'm Halow
 > *Halow is just my displayname, not a real name.*
 
 ### 🎨 About Me
-* 🎓 Education: Computer Science Student
+* 🎓 Education: Computer Science Student at SMKN 1 Balikpapan <i>[Vocational High School National 1 Balikpapan]</i>
 * 🔭 Currently Working: Making a Simple Website **ABOUT ME** (Like Portfolio)
 * 📚 Learning: Road to **ADVANCE C++** *{Smart Pointer, Next-Level Pointer & Reference, Beginner-Advance Memory Management}* AND Learn Web Development to **Laravel**
 * 🧩 Interest: I like to learn about IoT and Embedded System. (Arduino-Servo KIT MeArms) Still in progress and learning deeply.
