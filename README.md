@@ -9,11 +9,10 @@ Hello there! I'm Halow
 
 ### 🎨 About Me
 * 🎓 Education: Computer Science Student
-* 🔭 Currently Working/Doing: Making a Simple Website **ABOUT ME** (Like Portfolio)
-* 📚 Learning: Road to **ADVANCE C++** *{Smart Pointer, Next-Level Pointer & Refrence, Beginner-Advance Memory Management}* AND Learn Web Development to **Laravel**
-* 🎮 Hobbies: Coding, Play Games (Online/Boardgame)
-* ⚡ Fun fact: I hate to learn Python, so much.
-* 🧩 More Info: I like to learn about IoT and Embedded System. (Arduino-Servo KIT MeArms) Still in progress and learning deeply.
+* 🔭 Currently Working: Making a Simple Website **ABOUT ME** (Like Portfolio)
+* 📚 Learning: Road to **ADVANCE C++** *{Smart Pointer, Next-Level Pointer & Reference, Beginner-Advance Memory Management}* AND Learn Web Development to **Laravel**
+* 🧩 Interest: I like to learn about IoT and Embedded System. (Arduino-Servo KIT MeArms) Still in progress and learning deeply.
+* 🧠 Key Strengths: Fast Adapting to learn Programming Languages <b>(Adaptability)</b>, Able to learn new skills and information quickly <b>(Fast Learner)</b>, Get interest with new things about <i>Logical</i> and <i>Software</i> <b>(Curiosity Person)</b>.
 
 ### 🛠️ My Tech Stack
 
@@ -37,5 +36,5 @@ Hello there! I'm Halow
 ---
 
 ### 📫 Connect With Me
-* ✉️ Email: <mark>*invisble*</mark>~Coming Soon!
+* ✉️ Email: <mark>*invisible*</mark>~Coming Soon!
 * 🕶️ Discord: infernus_echo
