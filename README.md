@@ -11,7 +11,7 @@ Hello there! I'm Halow
 * 🎓 Education: Computer Science Student at SMKN 1 Balikpapan <i>[Vocational High School National 1 Balikpapan]</i>
 * 🔭 Currently Working: Making a Simple Website **ABOUT ME** (Like Portfolio)
 * 📚 Learning: Road to **ADVANCE C++** *{Smart Pointer, Next-Level Pointer & Reference, Beginner-Advance Memory Management}* AND Learn Web Development to **Laravel**
-* 🧩 Interest: I like to learn about IoT and Embedded System. (Arduino-Servo KIT MeArms) Still in progress and learning deeply.
+* 🧩 Interest: I like to learn about Embedded System. (Arduino-Servo KIT MeArms) Still in progress and learning deeply.
 * 🧠 Key Strengths: Fast Adapting to learn Programming Languages <b>(Adaptability)</b>, Able to learn new skills and information quickly <b>(Fast Learner)</b>, Get interest with new things about <i>Logical</i> and <i>Software</i> <b>(Curiosity Person)</b>.<br><br>
 
 <h5> 🟢 : Active ~ Main & Priority </h5>
@@ -25,6 +25,7 @@ Hello there! I'm Halow
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-ff0000?style=for-the-badge&logo=&logoColor=white)
 ![Database](https://img.shields.io/badge/Database-ff0000?style=for-the-badge&logo=&logoColor=white)
 
+<br>
 
 ### 🛠️ My Tech Stack
 
@@ -52,3 +53,5 @@ Hello there! I'm Halow
 ### 📫 Connect With Me
 * ✉️ Email: <mark>*invisible*</mark>~Coming Soon!
 * 🕶️ Discord: infernus_echo
+
+> *"Curiosity brought me here. Consistency keeps me going."*
