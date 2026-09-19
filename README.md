@@ -9,7 +9,7 @@ Hello there! I'm Halow
 
 ### 🎨 About Me
 * 🎓 Education: Computer Science Student at SMKN 1 Balikpapan <i>[Vocational High School National 1 Balikpapan]</i>
-* 🔭 Currently Working: Making a Simple Website **ABOUT ME** (Like Portfolio)
+* 🔭 Currently Working: Learning Embedded System (Arduino), Website Development, and Linux-Mint.
 * 📚 Learning: Road to **ADVANCE C++** *{Smart Pointer, Next-Level Pointer & Reference, Beginner-Advance Memory Management}* AND Learn Web Development to **Laravel**
 * 🧩 Interest: I like to learn about Embedded System. (Arduino-Servo KIT MeArms) Still in progress and learning deeply.
 * 🧠 Key Strengths: Fast Adapting to learn Programming Languages <b>(Adaptability)</b>, Able to learn new skills and information quickly <b>(Fast Learner)</b>, Get interest with new things about <i>Logical</i> and <i>Software</i> <b>(Curiosity Person)</b>.<br><br>
@@ -47,6 +47,7 @@ Hello there! I'm Halow
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Roblox Studio](https://img.shields.io/badge/Roblox%20Studio-000?style=for-the-badge&logo=roblox%20studio&logoColor=white)
 ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white)
 
 ---
 
