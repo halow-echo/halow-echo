@@ -8,15 +8,16 @@ Hello there! I'm Halow
 > *Halow is just my displayname, not a real name.*
 
 ### 🎨 About Me
-* 🎓 Education: Computer Science Student at SMKN 1 Balikpapan <i>[Vocational High School National 1 Balikpapan]</i>
-* 🔭 Currently Working: Learning Embedded System (Arduino), Website Development, and Linux-Mint.
-* 📚 Learning: Road to **ADVANCE C++** *{Smart Pointer, Next-Level Pointer & Reference, Beginner-Advance Memory Management}* AND Learn Web Development to **Laravel**
-* 🧩 Interest: I like to learn about Embedded System. (Arduino-Servo KIT MeArms) Still in progress and learning deeply.
+* 🎓 Education: Computer Science Student at SMKN 1 Balikpapan [<i>Vocational High School National 1 Balikpapan</i>]
+* 🔭 Currently Working: Learning Embedded Systems (Arduino), Basic Website Development.
+* 📚 Learning: Road to **ADVANCE C++** (Memory Management), Embedded Systems (Arduino), Basic Web Development (HTML/CSS/Boostrap/Tailwind), Linux Mint Environments.
+* 🧩 Interest: I like to learn about Embedded Systems. (Arduino-Servo KIT MeArms) Still in progress and learning deeply.
 * 🧠 Key Strengths: Fast Adapting to learn Programming Languages <b>(Adaptability)</b>, Able to learn new skills and information quickly <b>(Fast Learner)</b>, Get interest with new things about <i>Logical</i> and <i>Software</i> <b>(Curiosity Person)</b>.<br><br>
 
 <h5> 🟢 : Active ~ Main & Priority </h5>
 <h5> 🟡 : Semi-Active ~ Half Activity & Need More Learn </h5>
 <h5> 🔴 : Non-Active ~ Not In Progress </h5>
+<br>
 
 ![Game Dev](https://img.shields.io/badge/Game%20Dev-2ea44f?style=for-the-badge&logo=&logoColor=white)
 ![Web Dev](https://img.shields.io/badge/Web%20Dev-fcba03?style=for-the-badge&logo=&logoColor=white)
@@ -24,8 +25,6 @@ Hello there! I'm Halow
 ![Mobile Apps](https://img.shields.io/badge/Mobile%20Apps-ff0000?style=for-the-badge&logo=&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-ff0000?style=for-the-badge&logo=&logoColor=white)
 ![Database](https://img.shields.io/badge/Database-ff0000?style=for-the-badge&logo=&logoColor=white)
-
-<br>
 
 ### 🛠️ My Tech Stack
 
