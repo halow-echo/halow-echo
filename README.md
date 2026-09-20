@@ -33,7 +33,7 @@ Hello there! I'm Halow
 ### 💻 Languages
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Luau](https://img.shields.io/badge/LUAU-fff?style=for-the-badge&logo=luau&logoColor=blue)
+![Luau](https://img.shields.io/badge/LUAU-3058F8?style=for-the-badge&logo=luau&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🌐 Frameworks & Libraries
