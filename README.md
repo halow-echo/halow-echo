@@ -3,7 +3,7 @@ Hello there! I'm Halow
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" alt="Wave Hand">
 </h1>
 
-> *I want to be a <b>Embedded Software Engineer</b> or <b>Software Engineer</b>*
+> *I want to be <b>Embedded Software Engineer</b> or <b>Software Engineer</b>*
 
 > *Halow is just my displayname, not a real name.*
 
@@ -11,7 +11,7 @@ Hello there! I'm Halow
 * 🎓 Education: Software Engineering Student at SMKN 1 Balikpapan [<i>Vocational High School National 1 Balikpapan</i>]
 * 🔭 Currently Working: Learning Embedded Systems (Arduino), Basic Website Development.
 * 📚 Learning: Road to **ADVANCE C++** (Memory Management), Embedded Systems (Arduino), Basic Web Development (HTML/CSS/Boostrap/Tailwind), Linux Mint Environments.
-* 🧩 Interest: I like to learn about Embedded Systems. (Arduino-Servo KIT MeArms) Still in progress and learning deeply.
+* 🧩 Interest: I like to learn about Embedded Systems (Arduino Servo KIT MeArms). Still in progress and learning deeply.
 * 🧠 Key Strengths: Fast Adapting to learn Programming Languages <b>(Adaptability)</b>, Able to learn new skills and information quickly <b>(Fast Learner)</b>, Get interest with new things about <i>Logical</i> and <i>Software</i> <b>(Highly Curious)</b>.<br><br>
 
 <h5> 🟢 : Active ~ Main & Priority </h5>
