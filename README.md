@@ -3,7 +3,7 @@ Hello there! I'm Halow
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" alt="Wave Hand">
 </h1>
 
-> *I want to be <b>Embedded Software Engineer</b> or <b>Software Engineer</b>*
+> *I want to be an <b>Embedded Software Engineer</b> or be a <b>Software Engineer</b>*
 
 > *Halow is just my displayname, not a real name.*
 
