@@ -40,6 +40,7 @@ Hello there! I'm Halow
 ### 🌐 Frameworks & Libraries
 
 ![Raylib](https://img.shields.io/badge/Raylib-CC342D?style=for-the-badge&logo=raylib&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### 🧰 Tools & Environments
 
